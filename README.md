@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning graph databases and Cypher query language. I am facinated by the great problem solving capabilities graphQL has over relational database like MySQL. I also like reading about consumer behavioural psycology and ML methods implied in its research. 
 
-- 💬 Ask me about about my past projects and my experiences with dealing with data.
+- 💬 Ask me about about my past projects and my experiences dealing with data.
 
 - :sunglasses: I’m looking for fall internships and full time roles starting from Summer 2021 as an Data Scientist or Data Engineer.
 
