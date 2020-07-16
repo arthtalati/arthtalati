@@ -6,7 +6,7 @@
 
 - 💬 Ask me about about my past projects and my experiences dealing with data.
 
-- :sunglasses: I’m looking for fall internships and full time roles starting from Summer 2021 as an Data Scientist or Data Engineer.
+- :sunglasses: I’m looking for fall internships and full time roles starting from Fall 2020 as an Data Scientist or Data Engineer.
 
 - 📫 How to reach me: arthtalatilp@gmail.com
 
