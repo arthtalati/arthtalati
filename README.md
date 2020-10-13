@@ -10,7 +10,7 @@
 
 - :sunglasses: I’m looking for fall internships and full time roles starting from Fall 2020 as an Data Scientist or Data Engineer.
 
-- 📫 How to reach me: arthtalatilp@gmail.com
+- 📫 How to reach me: atalati@seas.upenn.edu
 
 - 😄 Pronouns: He/Him/His
 
