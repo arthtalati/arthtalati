@@ -8,7 +8,7 @@
 
 Learning NoSQL Databases and Computational Linguistics.
 
-:sunglasses: I’m looking for fall internships and full time roles starting from Fall 2020 as an Data Scientist or Data Engineer.
+:sunglasses: I’m looking for full time roles starting from Fall 2020 as an Data Scientist or Data Engineer.
 
 📫 How to reach me: atalati@seas.upenn.edu
 
