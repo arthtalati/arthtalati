@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on **Neo4j-BBC-Good-Foods-app** where I scraped BBC-GoodFoods website for 13000+ food recipes. I also built a Neo4j Graph Database on the scrapped data. I am currently developing a R Shiny app to query the database to assist a cook in exploring and optimizing his time and effort spent while doing what he loves the most.
+🔭 I’m currently working at Merck as a Sr. Specialist, Quantitative Sciences with the Human Health, Insights, Analytics and Data - Vaccines team.
 
-🌱 I’m currently learning graph databases and Cypher query language. I am facinated by the great problem solving capabilities graphQL has over relational database like MySQL. I also like reading about consumer behavioural psycology and ML methods implied in its research. 
+🌱 I’m currently learning ... 
 
 💬 Ask me about about my past projects and my experiences dealing with data.
 
