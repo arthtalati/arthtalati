@@ -4,9 +4,7 @@
 
 💬 Ask me about about my past projects and my experiences dealing with data.
 
-:sunglasses: I’m looking for full time roles starting from Fall 2020 as an Data Scientist or Data Engineer.
-
-📫 How to reach me: atalati@seas.upenn.edu
+📫 How to reach me: atalati@alumni.upenn.edu
 
 😄 Pronouns: He/Him/His
 
